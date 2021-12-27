@@ -1,0 +1,9 @@
+meat
+rice
+apple
+orange
+soup
+milkshake
+coffee
+ice-cream
+ramen

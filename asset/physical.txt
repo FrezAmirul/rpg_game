@@ -1,0 +1,9 @@
+broken
+intact
+legendary
+rare
+platinium
+gold
+bronze
+sliver
+high-status
